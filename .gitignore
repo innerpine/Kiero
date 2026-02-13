@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+token.txt
+bot_data.sqlite3
